@@ -1,0 +1,6 @@
+[submodule "src/cordlib"]
+	path = src/cordlib
+	url = https://github.com/LibreRVAC/librervac-cordlib.git
+[submodule "src/jsmn"]
+	path = src/jsmn
+	url = https://github.com/zserge/jsmn.git
